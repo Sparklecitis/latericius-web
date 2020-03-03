@@ -1,3 +1,1 @@
 # latericius-web
-
-test
